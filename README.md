@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/udaysutradhar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaysutradhar5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uday sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday sutradhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uday-sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-sutradhar" height="30" width="40" /></a>
 <a href="https://instagram.com/uday__sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday__sutradhar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uday_0023" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uday_0023" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sutradharuday23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sutradharuday23" height="30" width="40" /></a>
