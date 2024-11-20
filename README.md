@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/udaysutradhar5" target="blank"><img src="https://img.shields.io/twitter/follow/udaysutradhar5?logo=twitter&style=for-the-badge" alt="udaysutradhar5" /></a> </p>
 
-- 🔭 I’m currently working on [A Chess Game](https://github.com/UdaySutradhar/Chess)
+- 🔭 I’m currently working on [A Chess Game]([https://github.com/UdaySutradhar/Chess](https://github.com/UdaySutradhar/ChessGame))
 
 - 🌱 I’m currently learning **BackEnd Development to make myself turn to a FullStack Developer**
 
