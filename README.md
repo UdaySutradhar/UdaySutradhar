@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BackEnd Development to make myself turn to a FullStack Developer**
 
-- 👨‍💻 All of my projects are available at [https://udaysutradhar.tech/](https://udaysutradhar.tech/)
+- 👨‍💻 All of my projects are available at [https://udaysutradhar.tech/](https://udaysutradhar.me/)
 
 - 📫 How to reach me **sutradharuday4@gmail.com**
 
