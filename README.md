@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [A Chess Game]([https://github.com/UdaySutradhar/Chess])
 
-- 🌱 I’m currently learning **BackEnd Development to make myself turn to a FullStack Developer**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://udaysutradhar.live/](https://udaysutradhar.live/)
 
