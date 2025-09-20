@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on A Chess Game<br><br>- 🌱 I’m currently learning Data Science<br><br>- 👨‍💻 All of my projects are available at https://udaysutradhar.live/<br><br>- 📫 How to reach me sutradharuday4@gmail.com
+- 🔭 I’m currently working on A Chess Game<br><br>🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://udaysutradhar.live/<br><br>📫 How to reach me sutradharuday4@gmail.com
 
 
 ## 🌐 Socials:
