@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning Data Science**
 
-- 👨‍💻 All of my projects are available at [https://udaysutradhar.live/](https://udaysutradhar.live/)
+- 👨‍💻 All of my projects are available at [https://udaysutradhar.live/](https://udaysutradhar.in/)
 
 - 📫 How to reach me **sutradharuday4@gmail.com**
 
